@@ -38,5 +38,15 @@
     "repository": "SlimRoms/hardware_qcom_media",
     "target_path": "hardware/qcom/media-caf/msm8994",
     "branch": "mm6.0-caf-8994"
+  },
+  {
+    "repository": "CyanogenMod/android_external_libnfnetlink",
+    "target_path": "external/libnfnetlink",
+    "branch": "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_external_libnetfilter_conntrack",
+    "target_path": "external/libnetfilter_conntrack",
+    "branch": "cm-13.0"
   }
 ]
